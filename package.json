@@ -1,6 +1,6 @@
 {
   "name": "node-in-practice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is a project where I study core node functionality, rather than trying to learn frameworks.",
   "main": "index.js",
   "scripts": {
