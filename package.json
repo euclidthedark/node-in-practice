@@ -1,0 +1,15 @@
+{
+  "name": "node-in-practice",
+  "version": "0.1.0",
+  "description": "This is a project where I study core node functionality, rather than trying to learn frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "vanilla-node"
+  ],
+  "author": "euclidthedark",
+  "license": "MIT"
+}
